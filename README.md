@@ -7,6 +7,6 @@ The configuration code is created with stmcubemx.
 
 Credits:
 Westbots members
-Elizabeth Guisleni da Fonseca, Alex Zuffo and Lucas Schilindwein.
+Elizabeth Guisleni da Fonseca, Alex Zuffo and Lucas Schlindwein.
 
 
