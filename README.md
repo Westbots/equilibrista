@@ -5,6 +5,8 @@ Self balanced robot with stm32f103c8t6 and mpu6050
 
 The configuration code is created with stmcubemx.
 
-
+Credits:
+Westbots members
+Elizabeth Guislene da Fonseca and Alex Zuffo
 
 
